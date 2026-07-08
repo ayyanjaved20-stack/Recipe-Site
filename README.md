@@ -41,26 +41,12 @@ Recipe-Search-App/
 ├── index.html
 ├── style.css
 ├── script.js
-└── images/
+
 ```
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/recipe-search-app.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-No installation or additional dependencies are required.
-
----
 
 ## 💡 How It Works
 
@@ -72,17 +58,7 @@ No installation or additional dependencies are required.
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
-- Home Page
-- Search Results
-- Mobile View
-
----
 
 ## 🔮 Future Improvements
 
