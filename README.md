@@ -58,6 +58,11 @@ Recipe-Search-App/
 
 ---
 
+## 🚀 How to Run
+
+click this link: https://ayyanjaved20-stack.github.io/Recipe-Site/
+
+
 
 
 ## 🔮 Future Improvements
